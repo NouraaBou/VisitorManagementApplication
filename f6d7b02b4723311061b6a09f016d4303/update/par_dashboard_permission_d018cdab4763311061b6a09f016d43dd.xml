@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="par_dashboard_permission">
+    <par_dashboard_permission action="INSERT_OR_UPDATE">
+        <can_read>true</can_read>
+        <can_share>false</can_share>
+        <can_write>false</can_write>
+        <dashboard display_value="Visitor Management">be088dab8463311040502f2a805d1c92</dashboard>
+        <group/>
+        <role display_value="x_725196_visitor_0.admin" name="x_725196_visitor_0.admin">72d7b02b4723311061b6a09f016d430c</role>
+        <sys_class_name>par_dashboard_permission</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-01-11 10:09:53</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>d018cdab4763311061b6a09f016d43dd</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>be088dab8463311040502f2a805d1c92</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Visitor Management" source="x_725196_visitor_0">f6d7b02b4723311061b6a09f016d4303</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Visitor Management">f6d7b02b4723311061b6a09f016d4303</sys_scope>
+        <sys_update_name>par_dashboard_permission_d018cdab4763311061b6a09f016d43dd</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-01-11 10:09:53</sys_updated_on>
+        <user/>
+    </par_dashboard_permission>
+</record_update>

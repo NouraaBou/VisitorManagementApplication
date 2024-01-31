@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_list parent="" relationship="" sys_domain="global" table="x_725196_visitor_0_visitors" version="2" view="workspace-visitor-management-0">
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>number</element>
+            <list_id display_value="x_725196_visitor_0_visitors" element="NULL" name="x_725196_visitor_0_visitors" parent="NULL" relationship="NULL" sys_domain="global" view="72088dab50633110131d6967c5b2e590">4d1801eb4763311061b6a09f016d438c</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>0</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-01-11 10:09:55</sys_created_on>
+            <sys_id>c51801eb4763311061b6a09f016d438e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-01-11 10:09:55</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>access_level</element>
+            <list_id display_value="x_725196_visitor_0_visitors" element="NULL" name="x_725196_visitor_0_visitors" parent="NULL" relationship="NULL" sys_domain="global" view="72088dab50633110131d6967c5b2e590">4d1801eb4763311061b6a09f016d438c</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>1</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-01-11 10:09:55</sys_created_on>
+            <sys_id>4d1801eb4763311061b6a09f016d438e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-01-11 10:09:55</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>company</element>
+            <list_id display_value="x_725196_visitor_0_visitors" element="NULL" name="x_725196_visitor_0_visitors" parent="NULL" relationship="NULL" sys_domain="global" view="72088dab50633110131d6967c5b2e590">4d1801eb4763311061b6a09f016d438c</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>2</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-01-11 10:09:55</sys_created_on>
+            <sys_id>cd1801eb4763311061b6a09f016d438e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-01-11 10:09:55</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>email</element>
+            <list_id display_value="x_725196_visitor_0_visitors" element="NULL" name="x_725196_visitor_0_visitors" parent="NULL" relationship="NULL" sys_domain="global" view="72088dab50633110131d6967c5b2e590">4d1801eb4763311061b6a09f016d438c</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>3</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-01-11 10:09:55</sys_created_on>
+            <sys_id>411801eb4763311061b6a09f016d438f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-01-11 10:09:55</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>first_name</element>
+            <list_id display_value="x_725196_visitor_0_visitors" element="NULL" name="x_725196_visitor_0_visitors" parent="NULL" relationship="NULL" sys_domain="global" view="72088dab50633110131d6967c5b2e590">4d1801eb4763311061b6a09f016d438c</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>4</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-01-11 10:09:55</sys_created_on>
+            <sys_id>c11801eb4763311061b6a09f016d438f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-01-11 10:09:55</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>last_name</element>
+            <list_id display_value="x_725196_visitor_0_visitors" element="NULL" name="x_725196_visitor_0_visitors" parent="NULL" relationship="NULL" sys_domain="global" view="72088dab50633110131d6967c5b2e590">4d1801eb4763311061b6a09f016d438c</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>5</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-01-11 10:09:55</sys_created_on>
+            <sys_id>451801eb4763311061b6a09f016d438f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-01-11 10:09:55</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>location</element>
+            <list_id display_value="x_725196_visitor_0_visitors" element="NULL" name="x_725196_visitor_0_visitors" parent="NULL" relationship="NULL" sys_domain="global" view="72088dab50633110131d6967c5b2e590">4d1801eb4763311061b6a09f016d438c</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>6</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-01-11 10:09:55</sys_created_on>
+            <sys_id>c51801eb4763311061b6a09f016d438f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-01-11 10:09:55</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>phone_number</element>
+            <list_id display_value="x_725196_visitor_0_visitors" element="NULL" name="x_725196_visitor_0_visitors" parent="NULL" relationship="NULL" sys_domain="global" view="72088dab50633110131d6967c5b2e590">4d1801eb4763311061b6a09f016d438c</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>7</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-01-11 10:09:55</sys_created_on>
+            <sys_id>491801eb4763311061b6a09f016d438f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-01-11 10:09:55</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>title</element>
+            <list_id display_value="x_725196_visitor_0_visitors" element="NULL" name="x_725196_visitor_0_visitors" parent="NULL" relationship="NULL" sys_domain="global" view="72088dab50633110131d6967c5b2e590">4d1801eb4763311061b6a09f016d438c</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>8</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-01-11 10:09:55</sys_created_on>
+            <sys_id>c91801eb4763311061b6a09f016d438f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-01-11 10:09:55</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element/>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <name>x_725196_visitor_0_visitors</name>
+            <parent/>
+            <position/>
+            <relationship/>
+            <sum>false</sum>
+            <sys_class_name>sys_ui_list</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-01-11 10:09:55</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>4d1801eb4763311061b6a09f016d438c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_725196_visitor_0_visitors</sys_name>
+            <sys_package display_value="Visitor Management" source="x_725196_visitor_0">f6d7b02b4723311061b6a09f016d4303</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Visitor Management">f6d7b02b4723311061b6a09f016d4303</sys_scope>
+            <sys_update_name>sys_ui_list_x_725196_visitor_0_visitors_workspace-visitor-management-0</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-01-11 10:09:55</sys_updated_on>
+            <sys_user/>
+            <view display_value="Workspace Visitor Management 0" name="workspace-visitor-management-0">72088dab50633110131d6967c5b2e590</view>
+            <view_name/>
+        </sys_ui_list>
+    </sys_ui_list>
+</record_update>

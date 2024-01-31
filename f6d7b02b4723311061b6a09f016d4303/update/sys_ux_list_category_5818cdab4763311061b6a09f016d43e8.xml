@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_list_category">
+    <sys_ux_list_category action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <configuration display_value="Visitor Management_menu_config">5418cdab4763311061b6a09f016d43e6</configuration>
+        <description/>
+        <order>100</order>
+        <sys_class_name>sys_ux_list_category</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-01-11 10:09:53</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>5818cdab4763311061b6a09f016d43e8</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Visitors</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Visitor Management" source="x_725196_visitor_0">f6d7b02b4723311061b6a09f016d4303</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Visitor Management">f6d7b02b4723311061b6a09f016d4303</sys_scope>
+        <sys_update_name>sys_ux_list_category_5818cdab4763311061b6a09f016d43e8</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-01-11 10:09:53</sys_updated_on>
+        <title>Visitors</title>
+    </sys_ux_list_category>
+</record_update>

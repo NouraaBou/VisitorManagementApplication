@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="ais_search_profile_ais_dictionary_m2m">
+    <ais_search_profile_ais_dictionary_m2m action="INSERT_OR_UPDATE">
+        <dictionary display_value="x_725196_visitor_0_visitor_management_search_profile_default_spell_check_dictionary">fc1801eb4763311061b6a09f016d4319</dictionary>
+        <dictionary_reference_qualifier/>
+        <marked_for_deletion>false</marked_for_deletion>
+        <profile display_value="visitor-management Search Profile">03088dab43633110c230dfa1eddaa49a</profile>
+        <sys_class_name>ais_search_profile_ais_dictionary_m2m</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-01-11 10:09:54</sys_created_on>
+        <sys_id>341801eb4763311061b6a09f016d4329</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_725196_visitor_0_visitor_management_search_profile_default_spell_check_dictionary.visitor-management Search Profile</sys_name>
+        <sys_package display_value="Visitor Management" source="x_725196_visitor_0">f6d7b02b4723311061b6a09f016d4303</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Visitor Management">f6d7b02b4723311061b6a09f016d4303</sys_scope>
+        <sys_update_name>ais_search_profile_ais_dictionary_m2m_341801eb4763311061b6a09f016d4329</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-01-11 10:09:54</sys_updated_on>
+    </ais_search_profile_ais_dictionary_m2m>
+</record_update>

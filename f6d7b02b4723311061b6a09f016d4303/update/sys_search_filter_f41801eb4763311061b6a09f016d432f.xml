@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_search_filter">
+    <sys_search_filter action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <ais_search_source display_value="Visitors">a41801eb4763311061b6a09f016d4315</ais_search_source>
+        <label>Visitors</label>
+        <name>Visitors</name>
+        <order>100</order>
+        <search_context_config display_value="Visitor Management AI Search Configuration">f6088dab136331107713185d30a20690</search_context_config>
+        <sys_class_name>sys_search_filter</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-01-11 10:09:54</sys_created_on>
+        <sys_id>f41801eb4763311061b6a09f016d432f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Visitors</sys_name>
+        <sys_package display_value="Visitor Management" source="x_725196_visitor_0">f6d7b02b4723311061b6a09f016d4303</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Visitor Management">f6d7b02b4723311061b6a09f016d4303</sys_scope>
+        <sys_update_name>sys_search_filter_f41801eb4763311061b6a09f016d432f</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-01-11 10:09:54</sys_updated_on>
+    </sys_search_filter>
+</record_update>

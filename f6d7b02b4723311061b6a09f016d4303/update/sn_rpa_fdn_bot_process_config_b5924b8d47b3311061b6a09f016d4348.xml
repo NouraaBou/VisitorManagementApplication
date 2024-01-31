@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sn_rpa_fdn_bot_process_config">
+    <sn_rpa_fdn_bot_process_config action="INSERT_OR_UPDATE">
+        <auto_session_restore>false</auto_session_restore>
+        <description/>
+        <enable_robot_pool>false</enable_robot_pool>
+        <end_bot_session_on_complete>false</end_bot_session_on_complete>
+        <force_start>false</force_start>
+        <keep_monitor_active>true</keep_monitor_active>
+        <log_level>error</log_level>
+        <name>Visitor bot config</name>
+        <order>1</order>
+        <package display_value="BadgeSystem">0cf547e547e3711061b6a09f016d43b3</package>
+        <package_version display_value="10001">08f50b2d47e3711061b6a09f016d434f</package_version>
+        <pool_allocation_type>sla_based</pool_allocation_type>
+        <pool_percentage_reduction>25</pool_percentage_reduction>
+        <process_type>1</process_type>
+        <purging>30</purging>
+        <run_in_bot_session>false</run_in_bot_session>
+        <run_time_threshold>60</run_time_threshold>
+        <screen_resolution>1920 x 1080</screen_resolution>
+        <storage>instance</storage>
+        <sync_execution_logs>60</sync_execution_logs>
+        <sys_class_name>sn_rpa_fdn_bot_process_config</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-01-16 10:57:00</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_id>b5924b8d47b3311061b6a09f016d4348</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Visitor bot config</sys_name>
+        <sys_package display_value="Visitor Management" source="x_725196_visitor_0">f6d7b02b4723311061b6a09f016d4303</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Visitor Management">f6d7b02b4723311061b6a09f016d4303</sys_scope>
+        <sys_update_name>sn_rpa_fdn_bot_process_config_b5924b8d47b3311061b6a09f016d4348</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-01-16 10:57:00</sys_updated_on>
+        <track_automation_logs>false</track_automation_logs>
+        <track_execution_logs>false</track_execution_logs>
+        <trigger_mode>2</trigger_mode>
+    </sn_rpa_fdn_bot_process_config>
+</record_update>

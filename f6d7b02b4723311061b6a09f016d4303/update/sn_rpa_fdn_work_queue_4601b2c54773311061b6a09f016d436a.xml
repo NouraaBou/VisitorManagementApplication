@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sn_rpa_fdn_work_queue">
+    <sn_rpa_fdn_work_queue action="INSERT_OR_UPDATE">
+        <attempt_delay>0</attempt_delay>
+        <description/>
+        <include_all_items>true</include_all_items>
+        <is_queue_item_name_unique>true</is_queue_item_name_unique>
+        <is_work_item_content_sensitive>false</is_work_item_content_sensitive>
+        <item_count/>
+        <max_attempts>1</max_attempts>
+        <name>Visitor Queue</name>
+        <purge_days>30</purge_days>
+        <purge_status>d1fc06ff5b02301041fb2f043b81c795,b60d46ff5b02301041fb2f043b81c75a</purge_status>
+        <sys_class_name>sn_rpa_fdn_work_queue</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-01-16 09:48:27</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_id>4601b2c54773311061b6a09f016d436a</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Visitor Queue</sys_name>
+        <sys_package display_value="Visitor Management" source="x_725196_visitor_0">f6d7b02b4723311061b6a09f016d4303</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Visitor Management">f6d7b02b4723311061b6a09f016d4303</sys_scope>
+        <sys_update_name>sn_rpa_fdn_work_queue_4601b2c54773311061b6a09f016d436a</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-01-16 11:15:33</sys_updated_on>
+    </sn_rpa_fdn_work_queue>
+</record_update>
