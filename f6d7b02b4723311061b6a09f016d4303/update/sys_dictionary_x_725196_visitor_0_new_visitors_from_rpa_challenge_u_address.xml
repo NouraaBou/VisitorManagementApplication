@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update>
-    <sys_dictionary action="INSERT_OR_UPDATE" element="number" table="x_725196_visitor_0_visitors">
+    <sys_dictionary action="INSERT_OR_UPDATE" element="u_address" table="x_725196_visitor_0_new_visitors_from_rpa_challenge">
         <active>true</active>
         <array>false</array>
-        <attributes>edge_encryption_enabled=true</attributes>
+        <attributes>edge_encryption_enabled=true,import_attribute_name=Address</attributes>
         <audit>false</audit>
         <calculation/>
         <choice>0</choice>
         <choice_field/>
         <choice_table/>
-        <column_label>Number</column_label>
+        <column_label>Address</column_label>
         <comments/>
         <create_roles/>
-        <default_value>javascript:global.getNextObjNumberPadded</default_value>
+        <default_value/>
         <defaultsort/>
         <delete_roles/>
         <dependent/>
@@ -21,7 +21,7 @@
         <dynamic_creation_script/>
         <dynamic_default_value/>
         <dynamic_ref_qual/>
-        <element>number</element>
+        <element>u_address</element>
         <element_reference>false</element_reference>
         <foreign_database/>
         <formula/>
@@ -30,7 +30,7 @@
         <internal_type display_value="String">string</internal_type>
         <mandatory>false</mandatory>
         <max_length>40</max_length>
-        <name>x_725196_visitor_0_visitors</name>
+        <name>x_725196_visitor_0_new_visitors_from_rpa_challenge</name>
         <next_element/>
         <primary>false</primary>
         <read_only>false</read_only>
@@ -46,14 +46,14 @@
         <staged>false</staged>
         <sys_class_name>sys_dictionary</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2024-01-11 09:11:34</sys_created_on>
-        <sys_name>Number</sys_name>
+        <sys_created_on>2024-01-31 10:36:52</sys_created_on>
+        <sys_name>Address</sys_name>
         <sys_package display_value="Visitor Management" source="x_725196_visitor_0">f6d7b02b4723311061b6a09f016d4303</sys_package>
         <sys_policy/>
         <sys_scope display_value="Visitor Management">f6d7b02b4723311061b6a09f016d4303</sys_scope>
-        <sys_update_name>sys_dictionary_x_725196_visitor_0_visitors_number</sys_update_name>
+        <sys_update_name>sys_dictionary_x_725196_visitor_0_new_visitors_from_rpa_challenge_u_address</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2024-01-31 10:54:25</sys_updated_on>
+        <sys_updated_on>2024-01-31 10:36:52</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>
